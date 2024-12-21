@@ -1,4 +1,4 @@
-## Hi there 👋
+![Motorola-Miami](https://github.com/Motorola-Miami/.github/raw/master/profile/miami.png)
 
 <!--
 
